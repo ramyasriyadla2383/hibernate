@@ -34,5 +34,6 @@ public class HQLDemo {
         session.close();
         sessionFactory.close();
         System.out.println("program ends....");
+        System.out.println("======================================= hello everyone ===============================================");
     }
 }
